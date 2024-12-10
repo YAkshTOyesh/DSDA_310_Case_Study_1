@@ -7,6 +7,11 @@ This case study focuses on analyzing third-grade test results at the School Dist
 
 ## 2. Code
 
+- Files
+     - CS_1_Code.ipynb
+- Description
+     - Jupyter Notebook detailing data cleaning, data exploration, feature extraction, modelling approach, interpretation and statistical tests.
+
 ## 3. Datasets
 
 - Files
