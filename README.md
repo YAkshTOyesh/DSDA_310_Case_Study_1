@@ -10,7 +10,7 @@ This case study focuses on analyzing third-grade test results at the School Dist
 ## 3. Datasets
 
 - Files
-     - CS_1_Datasets
+     - Datasets Folder
 - Description
      - The study uses survey data collected from the research paper *"An examination of test scores of elementary school students at the School District of Beloit"*. The dataset consists of 215 observations with a total of 30 explanatory variables including test scores, demographics, survey questions etc ...
 
