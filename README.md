@@ -29,4 +29,24 @@ This case study focuses on analyzing third-grade test results at the School Dist
 
 # Policy Recommendations
 
+1. Develop tutoring and mentoring programs, especially for minority students.
+2. Use culturally responsive pedagogy for those who use English as a second language.
+3. Revitalize Robinson Elementary School. (Further study required on why students at Robinson School is not performing efficiently compared to other groups)
+
 # Skills
+Below is a list of skills we acquired during this project:
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Principal Component Analysis (PCA)
+- Lasso Regression
+- Feature Extraction
+- Multi-Linear Regression Model
+- Multicolinearity
+- Heteroskedasticity
+- One-hot encoding
+- Experimental Design and Sampling
+- Data ethics and Policy Making
+- Data Interpretability
+- Teamwork
+- Python
+- Jupyter Notebook
