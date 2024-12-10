@@ -27,6 +27,11 @@ This case study focuses on analyzing third-grade test results at the School Dist
 
 # Results
 
+1. Health disparities were not proven to be statistically significant enough to influence the academic outcomes of students in the sample.
+2. Belonging to a minority group adversely affects academic performance, even being controlled for several factors such as parental involvement, old school environment, and English proficiency.
+3. The level of English proficiency significantly impacts the academic outcomes for each student on Reading scores, while controlling for the same race, parental involvement, and old-school environment.
+4. Robinson Elementary stands out with dramatically poor academic outcomes within the whole system. 
+
 # Policy Recommendations
 
 1. Develop tutoring and mentoring programs, especially for minority students.
