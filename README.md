@@ -3,11 +3,11 @@ This case study focuses on analyzing third-grade test results at the School Dist
 
 # Repository Contents
 
-1. ## Report
+## 1. Report
 
-2. ## Code
+## 2. Code
 
-3. ## Datasets
+## 3. Datasets
 
 
 # Results
