@@ -5,6 +5,12 @@ This case study focuses on analyzing third-grade test results at the School Dist
 
 ## 1. Report
 
+- Files
+     - CS_1_Rport.pdf
+     - CS_1_Slides.pdf
+- Description
+     - Detailed report and presentation on the methodology, data modelling approach and policy recommendation.
+
 ## 2. Code
 
 - Files
